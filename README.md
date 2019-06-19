@@ -1,4 +1,4 @@
-# vim-mnemonic-cheatsheet
+# vim-mnemonic-cheatsheet JP
 
 - [PDF](/vim-mnemonic-cheatsheet.pdf)
 - [PNG](/vim-mnemonic-cheatsheet.png)
